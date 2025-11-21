@@ -24,5 +24,4 @@ A fast-paced tap-to-shoot game where a monkey fires bullets at incoming trucks. 
 
 ---
 
-## 🗂️ Project Structure
 
