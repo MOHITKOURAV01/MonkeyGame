@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1CSA1IRo2t603rSphNrBUa4Df71OPGaRt/view?usp=shari
 
 ---
 
-## 🧩 Features
+## Features
 
 - Tap-to-shoot mechanics  
 - Monkey, truck, bullet, and road PNG assets  
