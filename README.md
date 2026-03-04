@@ -1,4 +1,4 @@
-# 🐵 Monkey Shooting Game
+# 🐵 Monkey Shooting Game :-
 
 A fast-paced tap-to-shoot game where a monkey fires bullets at incoming trucks. Score points by hitting targets—misses reduce your score!
 
